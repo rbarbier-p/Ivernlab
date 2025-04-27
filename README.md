@@ -1,6 +1,6 @@
 ##        🌱 IvernLab
 #### Welcome to the **Smart Greenhouse Automation** project!
-This system uses Arduino microcontrollers to fully automate a greenhouse
+This system uses Arduino microcontrollers to fully automate a greenhouse.
 It also communicates wirelessly with a home station to monitor and upload data to the internet for remote controll and data analysis
 
 ### 🚀 Features
