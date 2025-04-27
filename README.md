@@ -10,3 +10,5 @@ It also communicates wirelessly with a home station to monitor and upload data t
 - ☀️ Light exposure adjustment based on daylight and plant needs.
 - 📈 Real-time environmental monitoring accessible online.
 - 📡 Robust wireless data transmission with failover checks.
+
+### 🚧 Project in progress (60%) 🚧
